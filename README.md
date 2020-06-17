@@ -33,6 +33,8 @@ set up android studio (https://developer.android.com/studio) and clone the proje
 
 
 # Screenshots of application
+| Recycle View| ![](recycleview.png) |
+| --- | --- |
 ### Recycle View
 ![](recycleview.png)
 
