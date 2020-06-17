@@ -36,6 +36,8 @@ set up android studio (https://developer.android.com/studio) and clone the proje
 | Recycle View| ![](recycleview.png) |
 | --- | --- |
 ### Recycle View
+<img src="recycle.png" width="200">
+<img src="recycle.png" width="200px">
 ![](recycleview.png)
 
 ### Adding Note
