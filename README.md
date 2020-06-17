@@ -5,7 +5,9 @@
 -function of deleteall task
 
 # Installation guideline
-set up android studio (https://developer.android.com/studio) and clone the project(https://github.com/nilamshrestha1234/Note)
+set up android studio (https://developer.android.com/studio)  
+
+clone the project(https://github.com/nilamshrestha1234/Note)
 
 # Plugins and Dependencies
 | Dependencies | Implements |
