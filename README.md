@@ -4,3 +4,9 @@
 ![](addnote.png)
 ### Editing Note
 ![](editnote.png)
+
+# MVVM Architecture Principles
+
+
+# MVVM Architecture
+![](images/mvvm.png)
