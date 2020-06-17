@@ -1,12 +1,12 @@
 ### Recycle View
-![](recycleview.png | width 100)
+![](recycleview.png | width = 100)
 ### Adding Note
-![](addnote.png  | width 100)
+![](addnote.png  | width = 100)
 ### Editing Note
-![](editnote.png  | width 100)
+![](editnote.png  | width=100)
 
 # MVVM Architecture Principles
 
 
 # MVVM Architecture
-![](/images/mvvm.png  | width 100)
+![](images/mvvm.png  | width = 100)
