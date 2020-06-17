@@ -26,7 +26,10 @@ set up android studio (https://developer.android.com/studio) and clone the proje
       - DatConversion.java
       - TodoRespository.java
       - TodoViewModel.Java
-    - tasks
+   - tasks
+       - TodoAdapter.java
+       - AddEditTodoActivity.java
+       - MainActivity.java
 
 
 # Screenshots of application
