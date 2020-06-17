@@ -8,10 +8,14 @@
 set up android studio (https://developer.android.com/studio) and clone the project(https://github.com/nilamshrestha1234/Note)
 
 # Plugins and Dependencies
-| Command | Description |
+| Dependencies | Implements |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Card View |  implementation "androidx.cardview:cardview:1.0.0" |
+| View Model | implementation "androidx.lifecycle:lifecycle-viewmodel:$lifecycle_version"|
+|Live Data |  implementation "androidx.lifecycle:lifecycle-livedata:$lifecycle_version" |
+|Annonation Processor |  annotationProcessor "androidx.lifecycle:lifecycle-compiler:$lifecycle_version" |
+| Room | Database | implementation "androidx.room:room-runtime:$room_version" |
+| Life Cycle |  implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0' 
 
 
 # Screenshots of application
