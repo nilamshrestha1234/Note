@@ -1,11 +1,17 @@
-#Key Features of application
+# Key Features of application
 - add the tasks by clicking in floating button
 - edit the task by clicking on the task
 - delete the task by swiping left or right
 -function of deleteall task
 
+# Installation guideline
+set up (android studio)(https://developer.android.com/studio) and clone the (project)()
+
+
+# Screenshots of application
 ### Recycle View
-![](recycleview.png )
+<img src = "recycleview.png" width = 100)
+
 
 ### Adding Note
 ![](addnote.png  )
