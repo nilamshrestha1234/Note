@@ -7,6 +7,10 @@
 # Installation guideline
 set up android studio (https://developer.android.com/studio) and clone the project(https://github.com/nilamshrestha1234/Note)
 
+# Plugins and Dependencies
+| Dependencies | Implementing |
+|Card View     |  implementation "androidx.cardview:cardview:1.0.0" |
+
 
 # Screenshots of application
 ### Recycle View
