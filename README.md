@@ -33,18 +33,9 @@ set up android studio (https://developer.android.com/studio) and clone the proje
 
 
 # Screenshots of application
-| Recycle View| ![](recycleview.png) |
-| --- | --- |
-### Recycle View
-<img src="recycleview.png" width="200">
-<img src="recycleview.png" width="200px">
-![](recycleview.png)
-
-### Adding Note
-![](addnote.png  )
-
-### Editing Note
-![](editnote.png )
+| Recycle View| Add Note | Edit Note |
+| --- | --- | --- |
+| <img src="recycleview.png" width="200"> | <img src="addnote.png" width="200"> | <img src="editnote.png" width="200"> |
 
 # Guideline Using the application
 - Add Todo: Click on the floating button and add list
