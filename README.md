@@ -10,7 +10,7 @@ set up android studio(https://developer.android.com/studio) and clone the projec
 
 # Screenshots of application
 ### Recycle View
-![] (recycleview.png)
+![](recycleview.png)
 
 ### Adding Note
 ![](addnote.png  )
