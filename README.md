@@ -5,6 +5,13 @@
 ### Editing Note
 ![](editnote.png )
 
+# Guideline Using the application
+- Add Todo: Click on the floating button and add list
+- Add Todo Item: Fill the required fields and click on save 
+- Edit Todo: Click on the Todo Item and edit the field then save 
+- Delete List: Swipe either left or right to delete 1 item and click on delete all to delete all items
+
+
 # MVVM Architecture Principles
 Model-View-ViewModel (MVVM) is a software design pattern that is structured to separate program logic and user interface controls.
 
