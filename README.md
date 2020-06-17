@@ -17,6 +17,17 @@ set up android studio (https://developer.android.com/studio) and clone the proje
 | Room | Database | implementation "androidx.room:room-runtime:$room_version" |
 | Life Cycle |  implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0' 
 
+# Steps to follow
+- my application
+  - mvvm_model
+      - Todo.java
+      - TodoDao.java
+      - TodoDatabase.java
+      - DatConversion.java
+      - TodoRespository.java
+      - TodoViewModel.Java
+    - tasks
+
 
 # Screenshots of application
 ### Recycle View
