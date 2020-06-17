@@ -1,4 +1,11 @@
+#Key Features of application
+- add the tasks by clicking in floating button
+- edit the task by clicking on the task
+- delete the task by swiping left or right
+-function of deleteall task
+
 ### Recycle View
+<img src = "recycle.png" style =" width = 100%">
 ![](recycleview.png )
 ### Adding Note
 ![](addnote.png  )
