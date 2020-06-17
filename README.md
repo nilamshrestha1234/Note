@@ -5,10 +5,11 @@
 -function of deleteall task
 
 ### Recycle View
-<img src = "recycle.png" style =" width = 100%">
 ![](recycleview.png )
+
 ### Adding Note
 ![](addnote.png  )
+
 ### Editing Note
 ![](editnote.png )
 
