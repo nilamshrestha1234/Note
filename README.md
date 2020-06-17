@@ -1,6 +1,6 @@
-###Recycle View
+### Recycle View
 ![](recycleview.png)
-###Adding Note
+### Adding Note
 ![](addnote.png)
-###Editing Note
+### Editing Note
 ![](editnote.png)
