@@ -5,13 +5,12 @@
 -function of deleteall task
 
 # Installation guideline
-set up (android studio)(https://developer.android.com/studio) and clone the (project)()
+set up android studio(https://developer.android.com/studio) and clone the project()
 
 
 # Screenshots of application
 ### Recycle View
-<img src = "recycleview.png" width = 100)
-
+![] (recycleview.png)
 
 ### Adding Note
 ![](addnote.png  )
